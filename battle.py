@@ -1,7 +1,7 @@
 import random
 import time
 import colorama
-from colorama import Fore, Back, Style  
+from colorama import Fore, Back, Style  #you have to install colorama
 
 random.choice(range(1, 25))
 n1 = input(Fore.CYAN + "enter name1: ")
